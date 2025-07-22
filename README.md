@@ -23,3 +23,9 @@ Highest selling category?
 Percentage of Total Orders delivered
 
 Dashboard Interaction - <a href= "https://github.com/Aman-Jha07/Excel-projects-for-data-analyst/blob/38153e4d827fd89fcc884f03a3ca4a9c8937b4c0/Dashboard.png">View Dahboard</a>
+
+# Process
+Verify data for any missing values and anomalies, and sort out the same.
+Made sure data is consistent and clean with respect to data type, data format and values used.
+Created pivot tables according to the questions asked.
+Merge all pivot tables into one dashboard and apply slicer to make dynamic.
