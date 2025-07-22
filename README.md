@@ -21,3 +21,4 @@ Which Channel is contributing maximum to the sales?
 Highest selling category?
 
 Percentage of Total Orders delivered
+Dashboard Interaction - <a href= "https://github.com/Aman-Jha07/Excel-projects-for-data-analyst/blob/38153e4d827fd89fcc884f03a3ca4a9c8937b4c0/Dashboard.png">View Dahboard</a>
