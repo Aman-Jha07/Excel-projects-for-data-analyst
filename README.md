@@ -36,4 +36,6 @@ Merge all pivot tables into one dashboard and apply slicer to make dynamic.
 
 #Dashboard
 
-<a href=https://github.com/Aman-Jha07/Excel-projects-for-data-analyst/blob/b4acbb05534ef364ec96c96587ebc72b31f81ada/Dashboard.png">
+## Dashboard Preview  
+![Vrinda Store Dashboard](https://github.com/Aman-Jha07/Excel-projects-for-data-analyst/blob/b4acbb05534ef364ec96c96587ebc72b31f81ada/Dashboard.png?raw=true)
+
